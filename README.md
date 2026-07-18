@@ -1,17 +1,21 @@
-```
-$ whoami
-krishngohel
-$ cat about.txt
-Founder at Webloom since June 2023. Full-stack and ML engineer.
-B.S. Computer Science, Data Science concentration, UTSA, May 2026.
-50+ client projects shipped, sole developer on all of them.
-$ cat status.txt
-Open to full-time Software/ML Engineer roles, available May 2026.
-$ ls stack/
-python.py typescript.ts sql.sql java.java
-pytorch.pt huggingface.hf fastapi.py nextjs.tsx
-postgresql.sql aws.tf stripe.js vercel.json
-```
+# krishngohel
+
+Full-Stack & ML Engineer — Founder @ Webloom
+
+## about
+
+- Founder at Webloom since June 2023, building full-stack and ML products
+- B.S. Computer Science, Data Science concentration — UTSA, May 2026
+- 50+ client projects shipped, sole developer on all of them
+- Open to full-time Software/ML Engineer roles, available May 2026
+
+## stack
+
+- **Languages** — Python, TypeScript, SQL, Java
+- **ML/AI** — PyTorch, Hugging Face
+- **Backend** — FastAPI, PostgreSQL
+- **Frontend** — Next.js
+- **Infra** — AWS, Stripe, Vercel
 
 ## activity
 
@@ -37,10 +41,7 @@ $ ./contribution-snake.sh
 
 ## projects
 
-**Clarity Classifier** — DeBERTa-v3 NLP ensemble, 2,758 labeled examples, 15-model ensemble, 74 tests
-
-**RT-MBAS** — 200,000+ row data pipeline with Streamlit dashboard
-
-**Cleanroom AI** — Federated learning platform, FastAPI, PostgreSQL, 63 async tests
-
-**Futureproof** — Multi-tenant SaaS, Next.js, PostgreSQL RLS, Stripe, AWS
+- **Clarity Classifier** — DeBERTa-v3 NLP ensemble, 2,758 labeled examples, 15-model ensemble, 74 tests
+- **RT-MBAS** — 200,000+ row data pipeline with Streamlit dashboard
+- **Cleanroom AI** — Federated learning platform, FastAPI, PostgreSQL, 63 async tests
+- **Futureproof** — Multi-tenant SaaS, Next.js, PostgreSQL RLS, Stripe, AWS
