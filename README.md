@@ -5,7 +5,7 @@ Full-Stack & ML Engineer
 ## about
 
 - B.S. Computer Science, Data Science concentration — UTSA, May 2026
-- 50+ client projects shipped, sole developer on all of them
+- 50+ client projects shipped
 - Open to full-time Software/ML Engineer roles, available May 2026
 
 ## stack
