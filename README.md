@@ -1,21 +1,20 @@
 # krishngohel
 
-Full-Stack & ML Engineer — Founder @ Webloom
+Full-Stack & ML Engineer
 
 ## about
 
-- Founder at Webloom since June 2023, building full-stack and ML products
 - B.S. Computer Science, Data Science concentration — UTSA, May 2026
 - 50+ client projects shipped, sole developer on all of them
 - Open to full-time Software/ML Engineer roles, available May 2026
 
 ## stack
 
-- **Languages** — Python, TypeScript, SQL, Java
-- **ML/AI** — PyTorch, Hugging Face
-- **Backend** — FastAPI, PostgreSQL
-- **Frontend** — Next.js
-- **Infra** — AWS, Stripe, Vercel
+- **Languages** — Python, TypeScript, JavaScript, SQL, Java, Kotlin
+- **Backend** — FastAPI, Node.js, Express, PostgreSQL, Redis, Supabase
+- **ML/AI** — PyTorch, Hugging Face, scikit-learn, Federated Learning
+- **Frontend** — React, Next.js
+- **Infra** — Docker, Prometheus, Grafana, Stripe
 
 ## activity
 
@@ -35,13 +34,13 @@ $ ./contribution-snake.sh
 
 ## stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=krishngohel&show_icons=true&bg_color=000000&title_color=00FF9C&text_color=E6EDF3&icon_color=00FF9C&border_color=000000&hide_border=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishngohel&layout=compact&bg_color=000000&title_color=00FF9C&text_color=E6EDF3&border_color=000000&hide_border=true)
 ![streak](https://streak-stats.demolab.com/?user=krishngohel&background=000000&stroke=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=E6EDF3&sideNums=E6EDF3&dates=9CA3AF&border=000000&hide_border=true)
+
+![top languages](https://raw.githubusercontent.com/krishngohel/krishngohel/output/languages.svg)
 
 ## projects
 
 - **Clarity Classifier** — DeBERTa-v3 NLP ensemble, 2,758 labeled examples, 15-model ensemble, 74 tests
 - **RT-MBAS** — 200,000+ row data pipeline with Streamlit dashboard
-- **Cleanroom AI** — Federated learning platform, FastAPI, PostgreSQL, 63 async tests
-- **Futureproof** — Multi-tenant SaaS, Next.js, PostgreSQL RLS, Stripe, AWS
+- **Cleanroom AI** — Federated learning platform, FastAPI, PostgreSQL, Redis, 63 async tests
+- **Futureproof** — Multi-tenant SaaS, Next.js, Supabase (PostgreSQL RLS), Stripe
