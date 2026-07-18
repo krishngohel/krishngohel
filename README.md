@@ -36,8 +36,6 @@ $ ./contribution-snake.sh
 
 ![streak](https://streak-stats.demolab.com/?user=krishngohel&background=000000&stroke=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=E6EDF3&sideNums=E6EDF3&dates=9CA3AF&border=000000&hide_border=true)
 
-![top languages](https://raw.githubusercontent.com/krishngohel/krishngohel/output/languages.svg)
-
 ## projects
 
 - **Clarity Classifier** — DeBERTa-v3 NLP ensemble, 2,758 labeled examples, 15-model ensemble, 74 tests
