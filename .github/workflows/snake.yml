@@ -27,11 +27,11 @@ jobs:
           filename: dist/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
+          output_action: none
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          config_theme: dark
 
       - name: push svgs to output branch
         uses: crazy-max/ghaction-github-pages@v4
